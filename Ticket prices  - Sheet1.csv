@@ -1,0 +1,15 @@
+country,Number of stations,عدد المحطات,Cost (EN),السعر,type
+Egypt,1 to 9 stations,من 1 إلى 9 محطات,10 EGP,10 جنيه,Metro
+Egypt,10 to 16 stations,من 10 إلى 16 محطة,12 EGP,12 جنيه,Metro
+Egypt,17 to 23 stations,من 17 إلى 23 محطة,15 EGP,15 جنيه,Metro
+Egypt,24 stations or more,24 محطة أو أكثر,20 EGP,20 جنيه,Metro
+Egypt,Up to 5 stations,حتى 5 محطات,20 EGP,20 جنيه,Monorail
+Egypt,Up to 10 stations,حتى 10 محطات,40 EGP,40 جنيه,Monorail
+Egypt,Up to 15 stations,حتى 15 محطة,55 EGP,55 جنيه,Monorail
+Egypt,More than 15 stations,أكثر من 15 محطة,80 EGP,80 جنيه,Monorail
+Egypt,Up to 3 stations,حتى 3 محطات,10 EGP,10 جنيه,LRT
+Egypt,Up to 7 stations,حتى 7 محطات,15 EGP,15 جنيه,LRT
+Egypt,More than 7 stations,أكثر من 7 محطات,20 EGP,20 جنيه,LRT
+Egypt,1 to 4 stations,من 1 الى 4 محطات ,5 EGP,5 جنيه,BRT
+Egypt,5 to 9 stations,من 5 الى 9 محطات ,10 EGP,10 جنيه,BRT
+Egypt,10 to 14 stations or more,من 10 الى 14 محطات او اكثر,15 EGP,15 جنيه,BRT
